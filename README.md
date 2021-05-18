@@ -1,3 +1,2 @@
-# Task 01 on Phase 02
+# Practice task for SRE/DevOps internship
 
-This repo for [Task 01](https://learningdevops.makvaz.com/phase2-task1-run-docker-locally).
