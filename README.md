@@ -32,10 +32,10 @@ Upload your docker image to DockerHub: Create a free account in DockerHub. Push 
 
 Create Pull Request with changes on Dockerfile.
 
-Additional task if you feel that it was too easy.
+-- Additional task if you feel that it was too easy.
 
 Instead of copying index.php to the container, find a way to edit this file locally and see your changes after refreshing the page.
 
-Tips:
+-- Tips:
 
 Docker allows you manipulating containers. Containers are more lightweight than VM, enabling you to run more applications on the same hardware.
